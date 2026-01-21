@@ -1,0 +1,18 @@
+```json
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Complete MVC assignment",
+      "completed": false,
+      "createdAt": "2026-01-21T14:30:00.000Z"
+    },
+    {
+      "id": "2",
+      "title": "Study Express.js architecture",
+      "completed": true,
+      "createdAt": "2026-01-20T10:00:00.000Z"
+    }
+  ]
+}
+```
