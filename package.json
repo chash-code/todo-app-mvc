@@ -1,0 +1,22 @@
+```json
+{
+  "name": "todo-app-mvc",
+  "version": "1.0.0",
+  "description": "Todo application following MVC architecture and standard coding practices",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": ["mvc", "express", "todo", "rest-api", "standard-practice"],
+  "author": "chash code",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
+```
